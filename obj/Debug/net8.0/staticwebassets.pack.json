@@ -1,0 +1,445 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\project.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\AI1343-1000-2.jpg",
+      "PackagePath": "staticwebassets\\images\\AI1343-1000-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\air-buds.png",
+      "PackagePath": "staticwebassets\\images\\air-buds.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\apple_new-ipad-air_new-design_09152020.jpg.news_app_ed.jpg",
+      "PackagePath": "staticwebassets\\images\\apple_new-ipad-air_new-design_09152020.jpg.news_app_ed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\auto-coffee-maker.jpg",
+      "PackagePath": "staticwebassets\\images\\auto-coffee-maker.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\basketball.jpg",
+      "PackagePath": "staticwebassets\\images\\basketball.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\board-game.jpg",
+      "PackagePath": "staticwebassets\\images\\board-game.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\building-block.jpg",
+      "PackagePath": "staticwebassets\\images\\building-block.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\camping-tent.jpg",
+      "PackagePath": "staticwebassets\\images\\camping-tent.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\car-phone-mount.jpeg",
+      "PackagePath": "staticwebassets\\images\\car-phone-mount.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\car-vaccum.jpg",
+      "PackagePath": "staticwebassets\\images\\car-vaccum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\chocolate-pack.jpeg",
+      "PackagePath": "staticwebassets\\images\\chocolate-pack.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\cook-book-collection.jpeg",
+      "PackagePath": "staticwebassets\\images\\cook-book-collection.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\cookware-set.jpeg",
+      "PackagePath": "staticwebassets\\images\\cookware-set.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\cross-body-bag.jpeg",
+      "PackagePath": "staticwebassets\\images\\cross-body-bag.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\dash-cam.jpg",
+      "PackagePath": "staticwebassets\\images\\dash-cam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\dinnerware.jpg",
+      "PackagePath": "staticwebassets\\images\\dinnerware.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\dress.jpg",
+      "PackagePath": "staticwebassets\\images\\dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\educational-tablet.jpg",
+      "PackagePath": "staticwebassets\\images\\educational-tablet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\electric-toothbrush.jpg",
+      "PackagePath": "staticwebassets\\images\\electric-toothbrush.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\fitness-tracker.jpeg",
+      "PackagePath": "staticwebassets\\images\\fitness-tracker.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\foam-mattress.jpeg",
+      "PackagePath": "staticwebassets\\images\\foam-mattress.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\granola-food.jpeg",
+      "PackagePath": "staticwebassets\\images\\granola-food.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\hair-drier.jpg",
+      "PackagePath": "staticwebassets\\images\\hair-drier.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\hair-moist.jpeg",
+      "PackagePath": "staticwebassets\\images\\hair-moist.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\hiking-backbag.jpg",
+      "PackagePath": "staticwebassets\\images\\hiking-backbag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\iphone15pro.jpg",
+      "PackagePath": "staticwebassets\\images\\iphone15pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\jacket.webp",
+      "PackagePath": "staticwebassets\\images\\jacket.webp"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\jump-starter.jpeg",
+      "PackagePath": "staticwebassets\\images\\jump-starter.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\macbook.jpg",
+      "PackagePath": "staticwebassets\\images\\macbook.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\mat-set.jpeg",
+      "PackagePath": "staticwebassets\\images\\mat-set.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\movie-set.jpeg",
+      "PackagePath": "staticwebassets\\images\\movie-set.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\novel.jpeg",
+      "PackagePath": "staticwebassets\\images\\novel.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\olive-oil.jpg",
+      "PackagePath": "staticwebassets\\images\\olive-oil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\pasta-pack.jpeg",
+      "PackagePath": "staticwebassets\\images\\pasta-pack.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\perfume.jpg",
+      "PackagePath": "staticwebassets\\images\\perfume.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\puzzle-set.jpg",
+      "PackagePath": "staticwebassets\\images\\puzzle-set.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\remote-control-car.jpg",
+      "PackagePath": "staticwebassets\\images\\remote-control-car.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\running-sneaker.jpeg",
+      "PackagePath": "staticwebassets\\images\\running-sneaker.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\smart-tv.png",
+      "PackagePath": "staticwebassets\\images\\smart-tv.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\sony-headphone.jpg",
+      "PackagePath": "staticwebassets\\images\\sony-headphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\sweater.webp",
+      "PackagePath": "staticwebassets\\images\\sweater.webp"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\unki.png",
+      "PackagePath": "staticwebassets\\images\\unki.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\video-game-console.jpeg",
+      "PackagePath": "staticwebassets\\images\\video-game-console.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\vitamin-c.jpg",
+      "PackagePath": "staticwebassets\\images\\vitamin-c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\yoga-mat.jpg",
+      "PackagePath": "staticwebassets\\images\\yoga-mat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.project.props",
+      "PackagePath": "build\\project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.project.props",
+      "PackagePath": "buildMultiTargeting\\project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.project.props",
+      "PackagePath": "buildTransitive\\project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

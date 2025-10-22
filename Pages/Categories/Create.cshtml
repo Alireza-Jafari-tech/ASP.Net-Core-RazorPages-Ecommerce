@@ -1,0 +1,490 @@
+@page
+@model project.Pages.Categories.CreateModel
+@{
+    ViewData["Title"] = "CreateModel";
+}
+
+<style>
+  .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Page Header */
+        .page-header {
+            background: linear-gradient(135deg, #4a6cf7 0%, #6a11cb 100%);
+            color: white;
+            padding: 40px 0;
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .page-title {
+            font-size: 36px;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        .page-description {
+            font-size: 18px;
+            opacity: 0.9;
+        }
+
+        /* Form Container */
+        .form-container {
+            background: white;
+            border-radius: 10px;
+            padding: 40px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+            margin-bottom: 60px;
+        }
+
+        /* Form Groups */
+        .form-group {
+            margin-bottom: 25px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #555;
+            font-size: 16px;
+        }
+
+        .form-control {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+
+        .form-control:focus {
+            border-color: #4a6cf7;
+            box-shadow: 0 0 0 3px rgba(74, 108, 247, 0.1);
+            outline: none;
+        }
+
+        textarea.form-control {
+            resize: vertical;
+            min-height: 100px;
+        }
+
+        /* Character Count */
+        .char-count {
+            text-align: right;
+            font-size: 12px;
+            color: #777;
+            margin-top: 5px;
+        }
+
+        .char-count.warning {
+            color: #ffa726;
+        }
+
+        .char-count.error {
+            color: #ff6b6b;
+        }
+
+        /* Icon Preview */
+        .icon-preview {
+            margin-top: 15px;
+            text-align: center;
+        }
+
+        .icon-preview-container {
+            width: 80px;
+            height: 80px;
+            background: #f0f4ff;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 10px;
+            border: 2px solid #e9ecef;
+            transition: all 0.3s ease;
+        }
+
+        .icon-preview-container i {
+            font-size: 32px;
+            color: #4a6cf7;
+        }
+
+        .icon-preview-text {
+            font-size: 12px;
+            color: #777;
+        }
+
+        /* Icon Suggestions */
+        .icon-suggestions {
+            margin-top: 15px;
+        }
+
+        .icon-suggestions h4 {
+            font-size: 14px;
+            font-weight: 600;
+            color: #555;
+            margin-bottom: 10px;
+        }
+
+        .icon-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(40px, 1fr));
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+
+        .icon-option {
+            width: 40px;
+            height: 40px;
+            background: #f8f9fa;
+            border: 2px solid #e9ecef;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .icon-option:hover {
+            border-color: #4a6cf7;
+            background: #f0f4ff;
+        }
+
+        .icon-option.active {
+            border-color: #4a6cf7;
+            background: #4a6cf7;
+            color: white;
+        }
+
+        .icon-option i {
+            font-size: 16px;
+        }
+
+        /* Validation Styles */
+        .field-validation-error {
+            display: block;
+            color: #ff6b6b;
+            font-size: 14px;
+            margin-top: 5px;
+            font-weight: 500;
+        }
+
+        .input-validation-error {
+            border-color: #ff6b6b !important;
+        }
+
+        .input-validation-error:focus {
+            border-color: #ff6b6b !important;
+            box-shadow: 0 0 0 3px rgba(255, 107, 107, 0.1) !important;
+        }
+
+        .validation-summary-errors {
+            background: #fff5f5;
+            border: 1px solid #ff6b6b;
+            border-radius: 4px;
+            padding: 15px;
+            margin-bottom: 25px;
+        }
+
+        .validation-summary-errors ul {
+            list-style: none;
+            margin: 0;
+        }
+
+        .validation-summary-errors li {
+            color: #ff6b6b;
+            margin-bottom: 5px;
+        }
+
+        /* Form Actions */
+        .form-actions {
+            display: flex;
+            gap: 15px;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 12px 24px;
+            background: #4a6cf7;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: 600;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            font-size: 16px;
+        }
+
+        .btn:hover {
+            background: #3a5ce5;
+            transform: translateY(-2px);
+        }
+
+        .btn-outline {
+            background: transparent;
+            border: 2px solid #4a6cf7;
+            color: #4a6cf7;
+        }
+
+        .btn-outline:hover {
+            background: #4a6cf7;
+            color: white;
+        }
+
+        /* Success Message */
+        .alert-success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+            border-radius: 4px;
+            padding: 15px;
+            margin-bottom: 25px;
+            text-align: center;
+        }
+
+        /* Responsive Design */
+        @@media (max-width: 768px) {
+            .form-container {
+                padding: 30px 20px;
+            }
+            
+            .page-title {
+                font-size: 28px;
+            }
+            
+            .page-description {
+                font-size: 16px;
+            }
+            
+            .form-actions {
+                flex-direction: column;
+            }
+            
+            .btn {
+                width: 100%;
+                text-align: center;
+            }
+        }
+
+        @@media (max-width: 576px) {
+            .page-header {
+                padding: 30px 0;
+            }
+            
+            .container {
+                padding: 0 15px;
+            }
+            
+            .icon-grid {
+                grid-template-columns: repeat(auto-fit, minmax(35px, 1fr));
+                gap: 8px;
+            }
+            
+            .icon-option {
+                width: 35px;
+                height: 35px;
+            }
+        }
+</style>
+
+<!-- Page Header -->
+    <div class="page-header">
+        <div class="container">
+            <h1 class="page-title">Add New Category</h1>
+            <p class="page-description">Create a new product category for your store</p>
+        </div>
+    </div>
+
+    <!-- Form Container -->
+    <div class="container">
+        <div class="form-container">
+            <!-- Validation Summary -->
+            @* <div asp-validation-summary="All" class="validation-summary-errors"></div> *@
+
+            <form method="post">
+                <!-- Category Name -->
+                <div class="form-group">
+                    <label asp-for="Category.Name"></label>
+                    <input asp-for="Category.Name" class="form-control" placeholder="Enter category name" />
+                    <div class="char-count" id="name-char-count">0/150</div>
+                    <span asp-validation-for="Category.Name" class="field-validation-error"></span>
+                </div>
+
+                <!-- Category Description -->
+                <div class="form-group">
+                    <label asp-for="Category.Description"></label>
+                    <textarea asp-for="Category.Description" class="form-control" placeholder="Enter category description"></textarea>
+                    <div class="char-count" id="description-char-count">0/350</div>
+                    <span asp-validation-for="Category.Description" class="field-validation-error"></span>
+                </div>
+
+                <!-- Icon URL -->
+                <div class="form-group">
+                    <label asp-for="Category.IconUrl"></label>
+                    <input asp-for="Category.IconUrl" type="text" class="form-control" id="icon-url" placeholder="e.g. fas fa-mobile-alt" />
+                    <span asp-validation-for="Category.IconUrl" class="field-validation-error"></span>
+                    
+                    <!-- Icon Preview -->
+                    <div class="icon-preview">
+                        <div class="icon-preview-container">
+                            <i id="icon-preview"></i>
+                        </div>
+                        <div class="icon-preview-text" id="icon-preview-text">Icon Preview</div>
+                    </div>
+
+                    <!-- Icon Suggestions -->
+                    <div class="icon-suggestions">
+                        <h4>Popular Icons:</h4>
+                        <div class="icon-grid">
+                            <div class="icon-option" data-icon="fas fa-mobile-alt">
+                                <i class="fas fa-mobile-alt"></i>
+                            </div>
+                            <div class="icon-option" data-icon="fas fa-tshirt">
+                                <i class="fas fa-tshirt"></i>
+                            </div>
+                            <div class="icon-option" data-icon="fas fa-home">
+                                <i class="fas fa-home"></i>
+                            </div>
+                            <div class="icon-option" data-icon="fas fa-dumbbell">
+                                <i class="fas fa-dumbbell"></i>
+                            </div>
+                            <div class="icon-option" data-icon="fas fa-laptop">
+                                <i class="fas fa-laptop"></i>
+                            </div>
+                            <div class="icon-option" data-icon="fas fa-headphones">
+                                <i class="fas fa-headphones"></i>
+                            </div>
+                            <div class="icon-option" data-icon="fas fa-shoe-prints">
+                                <i class="fas fa-shoe-prints"></i>
+                            </div>
+                            <div class="icon-option" data-icon="fas fa-utensils">
+                                <i class="fas fa-utensils"></i>
+                            </div>
+                            <div class="icon-option" data-icon="fas fa-book">
+                                <i class="fas fa-book"></i>
+                            </div>
+                            <div class="icon-option" data-icon="fas fa-car">
+                                <i class="fas fa-car"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Form Actions -->
+                <div class="form-actions">
+                    <button type="submit" class="btn">
+                        <i class="fas fa-plus"></i> Add Category
+                    </button>
+                    <a href="/categories" class="btn btn-outline">
+                        <i class="fas fa-arrow-left"></i> Back to Categories
+                    </a>
+                    <button type="reset" class="btn btn-outline">
+                        <i class="fas fa-redo"></i> Reset Form
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        // Character count for name
+        document.getElementById('Category_Name').addEventListener('input', function() {
+            const count = this.value.length;
+            const maxLength = 150;
+            const charCount = document.getElementById('name-char-count');
+            
+            charCount.textContent = `${count}/${maxLength}`;
+            
+            if (count > maxLength * 0.8) {
+                charCount.className = 'char-count warning';
+            } else {
+                charCount.className = 'char-count';
+            }
+        });
+
+        // Character count for description
+        document.getElementById('Category_Description').addEventListener('input', function() {
+            const count = this.value.length;
+            const maxLength = 350;
+            const charCount = document.getElementById('description-char-count');
+            
+            charCount.textContent = `${count}/${maxLength}`;
+            
+            if (count > maxLength) {
+                charCount.className = 'char-count error';
+            } else if (count > maxLength * 0.8) {
+                charCount.className = 'char-count warning';
+            } else {
+                charCount.className = 'char-count';
+            }
+        });
+
+        // Icon preview functionality
+        const iconUrlInput = document.getElementById('icon-url');
+        const iconPreview = document.getElementById('icon-preview');
+        const iconPreviewText = document.getElementById('icon-preview-text');
+
+        function updateIconPreview(iconClass) {
+            if (iconClass) {
+                iconPreview.className = iconClass;
+                iconPreviewText.textContent = 'Icon Preview';
+                iconPreviewText.style.color = '#777';
+            } else {
+                iconPreview.className = '';
+                iconPreviewText.textContent = 'No icon selected';
+                iconPreviewText.style.color = '#999';
+            }
+        }
+
+        iconUrlInput.addEventListener('input', function() {
+            updateIconPreview(this.value);
+        });
+
+        // Icon suggestions
+        document.querySelectorAll('.icon-option').forEach(option => {
+            option.addEventListener('click', function() {
+                // Remove active class from all options
+                document.querySelectorAll('.icon-option').forEach(opt => {
+                    opt.classList.remove('active');
+                });
+                
+                // Add active class to clicked option
+                this.classList.add('active');
+                
+                // Update input and preview
+                const iconClass = this.getAttribute('data-icon');
+                iconUrlInput.value = iconClass;
+                updateIconPreview(iconClass);
+            });
+        });
+
+        // Form reset handler
+        document.querySelector('button[type="reset"]').addEventListener('click', function() {
+            // Reset character counts
+            document.getElementById('name-char-count').textContent = '0/150';
+            document.getElementById('name-char-count').className = 'char-count';
+            document.getElementById('description-char-count').textContent = '0/350';
+            document.getElementById('description-char-count').className = 'char-count';
+            
+            // Reset icon preview
+            updateIconPreview('');
+            
+            // Remove active class from icon options
+            document.querySelectorAll('.icon-option').forEach(opt => {
+                opt.classList.remove('active');
+            });
+        });
+
+        // Initialize character counts
+        document.getElementById('Category_Name').dispatchEvent(new Event('input'));
+        document.getElementById('Category_Description').dispatchEvent(new Event('input'));
+    </script>

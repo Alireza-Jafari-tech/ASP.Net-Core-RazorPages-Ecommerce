@@ -1,0 +1,22 @@
+@page
+@model project.Pages.Products.SearchModel
+
+@* @if (Model.Products.Count == 0)
+{
+    <p>No products found.</p>
+}
+else
+{
+    <div class="row">
+        @foreach (var product in Model.Products)
+        {
+            <div class="col-md-3 mb-3">
+                <div class="card p-2">
+                    <h5>@product.Name</h5>
+                    <p>@product.Description</p>
+                    <p><strong>$@product.Price</strong></p>
+                </div>
+            </div>
+        }
+    </div>
+} *@

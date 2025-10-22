@@ -1,0 +1,348 @@
+@page "{categoryId:int}"
+@model project.Pages.Products.ReadByCategoryModel
+
+@{
+    ViewData["Title"] = "Products in Category";
+}
+
+<style>
+    .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Category Header */
+        .category-header {
+            background: linear-gradient(135deg, #4a6cf7 0%, #6a11cb 100%);
+            color: white;
+            padding: 40px 0;
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .breadcrumb {
+            font-size: 14px;
+            margin-bottom: 15px;
+            opacity: 0.9;
+        }
+
+        .breadcrumb a {
+            color: white;
+            transition: opacity 0.3s ease;
+        }
+
+        .breadcrumb a:hover {
+            opacity: 0.8;
+        }
+
+        .category-title {
+            font-size: 36px;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        .category-description {
+            font-size: 18px;
+            opacity: 0.9;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        /* Products Grid */
+        .products-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 30px;
+            margin-bottom: 60px;
+        }
+
+        .product-card {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+            transition: all 0.3s ease;
+        }
+
+        .product-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+        }
+
+        .product-image {
+            height: 200px;
+            background: #f8f9fa;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            position: relative;
+        }
+
+        .product-image img {
+            max-width: 80%;
+            max-height: 80%;
+            object-fit: contain;
+        }
+
+        .product-badge {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: #ff6b6b;
+            color: white;
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+
+        .product-info {
+            padding: 20px;
+        }
+
+        .product-name {
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .product-description {
+            font-size: 14px;
+            color: #777;
+            margin-bottom: 15px;
+            line-height: 1.4;
+        }
+
+        .product-rating {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 15px;
+        }
+
+        .stars {
+            color: #ffc107;
+        }
+
+        .rating-count {
+            font-size: 12px;
+            color: #777;
+        }
+
+        .product-price {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+
+        .current-price {
+            font-size: 18px;
+            font-weight: 700;
+            color: #4a6cf7;
+        }
+
+        .original-price {
+            font-size: 14px;
+            color: #999;
+            text-decoration: line-through;
+        }
+
+        .discount {
+            font-size: 12px;
+            background: #ff6b6b;
+            color: white;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-weight: 600;
+        }
+
+        .add-to-cart-btn {
+            width: 100%;
+            padding: 12px;
+            background: #4a6cf7;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        .add-to-cart-btn:hover {
+            background: #3a5ce5;
+        }
+
+        /* No Products */
+        .no-products {
+            text-align: center;
+            padding: 60px 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+        }
+
+        .no-products i {
+            font-size: 64px;
+            color: #ddd;
+            margin-bottom: 20px;
+        }
+
+        .no-products h3 {
+            font-size: 24px;
+            color: #555;
+            margin-bottom: 15px;
+        }
+
+        .no-products p {
+            color: #777;
+            margin-bottom: 30px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 12px 24px;
+            background: #4a6cf7;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: 600;
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+
+        .btn:hover {
+            background: #3a5ce5;
+        }
+
+        /* Responsive */
+        @@media (max-width: 768px) {
+            .products-grid {
+                grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+                gap: 20px;
+            }
+            
+            .category-title {
+                font-size: 28px;
+            }
+            
+            .category-description {
+                font-size: 16px;
+            }
+        }
+
+        @@media (max-width: 576px) {
+            .products-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .category-header {
+                padding: 30px 0;
+            }
+        }
+</style>
+
+<!-- Category Header -->
+<div class="category-header">
+    <div class="container">
+        <div class="breadcrumb">
+            <a href="#">Home</a> / <a href="#">Categories</a> / <span>@Model.Category.Name</span>
+        </div>
+        <h1 class="category-title">@Model.Category.Name</h1>
+        <p class="category-description">@Model.Category.Description</p>
+    </div>
+</div>
+
+<!-- Products Grid -->
+<div class="container">
+    @if (Model.Products?.Any() == true)
+    {
+        <div class="products-grid">
+            @foreach(var product in Model.Products)
+            {
+                <div class="product-card">
+                    <div class="product-image">
+                        @* <div class="product-badge">Sale</div> *@
+                        <img src="@product.ImageUrl" alt="@product.Name">
+                    </div>
+                    <div class="product-info">
+                        <h3 class="product-name">@product.Name</h3>
+                        <p class="product-description">@product.Description</p>
+                        @* <div class="product-rating">
+                            <div class="stars">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star-half-alt"></i>
+                            </div>
+                            <span class="rating-count">(128)</span>
+                        </div> *@
+                        <div class="product-price">
+                            <span class="current-price">$@product.Price</span>
+                            @* <span class="original-price">$99.99</span> *@
+                            @* <span class="discount">20% OFF</span> *@
+                        </div>
+                        <a asp-page="/Products/Read" asp-route-id="@product.Id" class="add-to-cart-btn">
+                            <i class="fas fa-shopping-cart"></i> View Details
+                        </a>
+                    </div>
+                </div>
+            }
+            @if(Model.TotalPages > 1)
+            {
+                <div class="pagination">
+                    @for(int i = 0; i < Model.TotalPages; i++)
+                    {
+                        <a href="?page=@(i + 1)" class="@(Model.CurrentPage == i + 1 ? "active" : "")">@((i + 1).ToString())</a>
+                    }
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <!-- No Products State -->
+        <div class="no-products">
+            <i class="fas fa-search"></i>
+            <h3>No products found</h3>
+            <p>We couldn't find any products in this category. Please check back later.</p>
+            <a asp-page="/Index" class="btn">Browse All Categories</a>
+        </div>
+    }
+</div>
+
+<script>
+    // Simple add to cart functionality
+    document.querySelectorAll('.add-to-cart-btn').forEach(button => {
+        button.addEventListener('click', function(e) {
+            // Only run animation for non-navigation buttons
+            if (this.getAttribute('href')) {
+                return; // Let the link navigate normally
+            }
+            
+            const productCard = this.closest('.product-card');
+            const productName = productCard.querySelector('.product-name').textContent;
+            
+            // Add animation
+            const originalText = this.innerHTML;
+            this.innerHTML = '<i class="fas fa-check"></i> Added!';
+            this.style.background = '#28a745';
+            
+            setTimeout(() => {
+                this.innerHTML = originalText;
+                this.style.background = '';
+            }, 2000);
+            
+            console.log(`Added ${productName} to cart`);
+        });
+    });
+</script>
