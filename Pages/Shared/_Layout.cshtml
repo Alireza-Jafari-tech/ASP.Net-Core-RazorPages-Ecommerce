@@ -3,11 +3,15 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self' https://cdnjs.cloudflare.com; font-src 'self' https://cdnjs.cloudflare.com https://fonts.gstatic.com; style-src 'self' https://cdnjs.cloudflare.com 'unsafe-inline';">
+    <meta http-equiv="Content-Security-Policy" content="
+        default-src 'self' https://cdnjs.cloudflare.com;
+        font-src 'self' https://cdnjs.cloudflare.com https://fonts.gstatic.com https://ka-f.fontawesome.com;
+        style-src 'self' https://cdnjs.cloudflare.com 'unsafe-inline';
+        connect-src 'self' https://ka-f.fontawesome.com;">
     <title>@ViewData["Title"] - project</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" crossorigin="anonymous" />
+    @* <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"> *@
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/project.styles.css" asp-append-version="true" />
 </head>
@@ -26,38 +30,36 @@
                         <input type="text" placeholder="Search for products...">
                     </div>
                 </form>
-                <div class="header-actions">
-                    <div class="header-action-item">
-                        <i class="far fa-user"></i>
-                        <a asp-page="/Auth/login">Account</a>
-                    </div>
-                    <div class="header-action-item">
-                        <i class="far fa-heart"></i>
-                        <a asp-page="/Products/Create">Add</a>
-                    </div>
-                    <div class="header-action-item cart-icon">
-                        <i class="fas fa-shopping-cart"></i>
-                        <a asp-page="/Customers/Cart/Index" asp-route-userId="@ViewData["UserId"]">Cart</a>
-                        @* <div class="cart-count">3</div> *@
-                    </div>
+                <div class="header-actions d-flex align-items-center gap-3">
+                    <a asp-page="/Auth/login" class="text-decoration-none text-dark fw-medium px-2 py-1 rounded hover-primary">
+                        Account
+                    </a>
+                    <a asp-page="/Products/Create" class="text-decoration-none text-dark fw-medium px-2 py-1 rounded hover-primary">
+                        Add Product
+                    </a>
+                    <a asp-page="/Customers/Cart/Index" asp-route-userId="@ViewData["UserId"]" class="text-decoration-none text-dark fw-medium px-2 py-1 rounded hover-primary position-relative">
+                        Cart
+                        <!-- Uncomment for cart count -->
+                        <!-- <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">3</span> -->
+                    </a>
                 </div>
             </div>
             @* <nav>
-            <ul class="nav-links">
-            <li><a asp-page="/Index">Home</a></li>
-            <li><a asp-page="/">Shop</a></li>
-            <li><a asp-page="/">Categories</a></li>
-            <li><a asp-page="/">Deals</a></li>
-            <li><a asp-page="/">New Arrivals</a></li>
-            <li><a asp-page="/">Brands</a></li>
-            <li><a asp-page="/">About</a></li>
-            <li><a asp-page="/">Contact</a></li>
-            </ul>
-            </nav> *@
+                <ul class="nav-links">
+                <li><a asp-page="/Index">Home</a></li>
+                <li><a asp-page="/">Shop</a></li>
+                <li><a asp-page="/">Categories</a></li>
+                <li><a asp-page="/">Deals</a></li>
+                <li><a asp-page="/">New Arrivals</a></li>
+                <li><a asp-page="/">Brands</a></li>
+                <li><a asp-page="/">About</a></li>
+                <li><a asp-page="/">Contact</a></li>
+                </ul>
+                </nav> *@
         </div>
     </header>
     @* <main role="main"></main> *@
-    
+
     @RenderBody()
 
     <!-- Footer -->
@@ -67,12 +69,12 @@
                 <div class="footer-column">
                     <h3>ShopEasy</h3>
                     <p>Your one-stop destination for all your shopping needs. Quality products at affordable prices.</p>
-                    <div class="social-links">
-                        <a href="https://www.linkedin.com/in/alireza-jafari-tech/"><i class="fab fa-facebook-f"></i></a>
-                        <a href="https://www.linkedin.com/in/alireza-jafari-tech/"><i class="fab fa-twitter"></i></a>
-                        <a href="https://www.linkedin.com/in/alireza-jafari-tech/"><i class="fab fa-instagram"></i></a>
-                        <a href="https://www.linkedin.com/in/alireza-jafari-tech/"><i class="fab fa-pinterest"></i></a>
-                    </div>
+                    @* <div class="social-links">
+                            <a href="https://www.linkedin.com/in/alireza-jafari-tech/"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.linkedin.com/in/alireza-jafari-tech/"><i class="fab fa-twitter"></i></a>
+                            <a href="https://www.linkedin.com/in/alireza-jafari-tech/"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.linkedin.com/in/alireza-jafari-tech/"><i class="fab fa-pinterest"></i></a>
+                        </div> *@
                 </div>
                 <div class="footer-column">
                     <h3>Quick Links</h3>

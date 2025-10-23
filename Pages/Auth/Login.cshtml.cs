@@ -10,7 +10,7 @@ namespace project.Pages.Auth
     public class LoginModel : PageModel
     {
         private readonly AppDbContext _context;
-        
+
         public LoginModel(AppDbContext context)
         {
             _context = context;
@@ -22,9 +22,9 @@ namespace project.Pages.Auth
 
         public void OnGet()
         {
-            
+
         }
-    
+
         public IActionResult OnPost()
         {
             if (!ModelState.IsValid)
@@ -37,7 +37,7 @@ namespace project.Pages.Auth
                 return RedirectToPage("/NotFound");
 
             int userId = customer.Id;
-            return RedirectToPage("/Index", new { user = userId});
+            return RedirectToPage("/Index", new { user = userId });
         }
     }
 }

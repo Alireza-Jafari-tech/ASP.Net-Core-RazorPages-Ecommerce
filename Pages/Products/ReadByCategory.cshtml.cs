@@ -21,7 +21,7 @@ namespace project.Pages.Products
         public List<Product> Products { get; set; }
         public Category Category { get; set; }
         public int CategoryId { get; set; }
-        
+
 
         public int PageSize { get; set; } = 10;
 
@@ -31,12 +31,12 @@ namespace project.Pages.Products
 
         public IActionResult OnGet(int? categoryId)
         {
-            if(categoryId == null)
+            if (categoryId == null)
             {
                 return RedirectToPage("/NotFound");
             }
 
-            if(categoryId.HasValue)
+            if (categoryId.HasValue)
             {
                 CategoryId = categoryId ?? 0;
             }

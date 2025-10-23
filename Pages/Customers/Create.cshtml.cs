@@ -21,7 +21,7 @@ namespace project.Pages.Customers
 
         public void OnGet()
         {
-            
+
         }
 
         public IActionResult OnPost()
@@ -40,10 +40,10 @@ namespace project.Pages.Customers
                 CustomerId = customer.Id
             };
 
-                _context.ShoppingCarts.Add(newShoppingCard);
-                _context.SaveChanges();
-                customer.ShoppingCart = newShoppingCard;
-                _context.SaveChanges();
+            _context.ShoppingCarts.Add(newShoppingCard);
+            _context.SaveChanges();
+            customer.ShoppingCart = newShoppingCard;
+            _context.SaveChanges();
 
             return RedirectToPage("/Index");
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bk16vjo5A68=",
+  "dgSpecHash": "+K7sFd0tO5w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\project.csproj",
+  "projectFilePath": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Win10x64\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Win10x64\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

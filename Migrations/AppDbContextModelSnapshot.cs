@@ -17,7 +17,7 @@ namespace project.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "9.0.9")
+                .HasAnnotation("ProductVersion", "9.0.10")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -103,45 +103,6 @@ namespace project.Migrations
                     b.ToTable("Customers");
                 });
 
-            modelBuilder.Entity("project.Model.Order", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<int>("CustomerId")
-                        .HasColumnType("int");
-
-                    b.Property<DateTime>("OrderDate")
-                        .HasColumnType("datetime2");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("CustomerId");
-
-                    b.ToTable("Orders");
-                });
-
-            modelBuilder.Entity("project.Model.OrderItem", b =>
-                {
-                    b.Property<int>("OrderId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("ProductId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Quantity")
-                        .HasColumnType("int");
-
-                    b.HasKey("OrderId", "ProductId");
-
-                    b.HasIndex("ProductId");
-
-                    b.ToTable("OrderItems");
-                });
-
             modelBuilder.Entity("project.Model.Product", b =>
                 {
                     b.Property<int>("Id")
@@ -221,36 +182,6 @@ namespace project.Migrations
                     b.Navigation("ShoppingCart");
                 });
 
-            modelBuilder.Entity("project.Model.Order", b =>
-                {
-                    b.HasOne("project.Model.Customer", "Customer")
-                        .WithMany("Orders")
-                        .HasForeignKey("CustomerId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Customer");
-                });
-
-            modelBuilder.Entity("project.Model.OrderItem", b =>
-                {
-                    b.HasOne("project.Model.Order", "Order")
-                        .WithMany("OrderItems")
-                        .HasForeignKey("OrderId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("project.Model.Product", "Product")
-                        .WithMany("OrderItems")
-                        .HasForeignKey("ProductId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Order");
-
-                    b.Navigation("Product");
-                });
-
             modelBuilder.Entity("project.Model.Product", b =>
                 {
                     b.HasOne("project.Model.Category", "Category")
@@ -280,20 +211,8 @@ namespace project.Migrations
 
             modelBuilder.Entity("project.Model.Customer", b =>
                 {
-                    b.Navigation("Orders");
-
                     b.Navigation("ShoppingCart")
                         .IsRequired();
-                });
-
-            modelBuilder.Entity("project.Model.Order", b =>
-                {
-                    b.Navigation("OrderItems");
-                });
-
-            modelBuilder.Entity("project.Model.Product", b =>
-                {
-                    b.Navigation("OrderItems");
                 });
 
             modelBuilder.Entity("project.Model.ShoppingCart", b =>

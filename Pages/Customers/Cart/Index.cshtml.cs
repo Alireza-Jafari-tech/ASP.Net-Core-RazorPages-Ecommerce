@@ -14,7 +14,7 @@ namespace project.Pages.Customers.Cart
         {
             _context = context;
         }
-        
+
         public ShoppingCart ShoppingCart { get; set; }
 
         public List<CartItem> CartItems { get; set; }
@@ -32,7 +32,7 @@ namespace project.Pages.Customers.Cart
 
             if (customer == null)
                 return RedirectToPage("/NotFound");
-            
+
             ShoppingCart = customer.ShoppingCart;
             CartItems = ShoppingCart.CartItems;
 
@@ -49,7 +49,7 @@ namespace project.Pages.Customers.Cart
 
         public void OnPost()
         {
-        
+
         }
     }
 }

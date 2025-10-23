@@ -63,7 +63,7 @@ namespace project.Pages
 
 
             return RedirectToPage("/Products/ReadByCategory", new
-                { categoryId = CategoryId, userId = ViewData["UserId"], page = 1 }
+            { categoryId = CategoryId, userId = ViewData["UserId"], page = 1 }
                 );
         }
 

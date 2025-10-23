@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CQDxRmZMmJ0u/YJ3BWCKoSRZt9FJNp7LzPqQINZJ+/s=",
+  "Hash": "cO691bGo+uRqZIxbMhHDEu3VCK5liWRg+lVu5rHtbc8=",
   "Source": "project",
   "BasePath": "_content/project",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "project\\wwwroot",
       "Source": "project",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\project.styles.css",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\project.styles.css",
       "SourceId": "project",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/project",
       "RelativePath": "project.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\project.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\project.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\project.bundle.scp.css",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\project.bundle.scp.css",
       "SourceId": "project",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/project",
       "RelativePath": "project.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\project.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\project.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\css\\site.css",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\favicon.ico",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\AI1343-1000-2.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\AI1343-1000-2.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/AI1343-1000-2.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\images\\AI1343-1000-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\air-buds.png",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\air-buds.png",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/air-buds.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\images\\air-buds.png"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\apple_new-ipad-air_new-design_09152020.jpg.news_app_ed.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\apple_new-ipad-air_new-design_09152020.jpg.news_app_ed.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/apple_new-ipad-air_new-design_09152020.jpg.news_app_ed.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\images\\apple_new-ipad-air_new-design_09152020.jpg.news_app_ed.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\auto-coffee-maker.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\auto-coffee-maker.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/auto-coffee-maker.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\images\\auto-coffee-maker.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\basketball.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\basketball.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/basketball.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\basketball.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\board-game.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\board-game.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/board-game.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\board-game.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\building-block.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\building-block.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/building-block.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\building-block.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\camping-tent.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\camping-tent.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/camping-tent.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\camping-tent.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\car-phone-mount.jpeg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\car-phone-mount.jpeg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/car-phone-mount.jpeg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\car-phone-mount.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\car-vaccum.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\car-vaccum.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/car-vaccum.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\car-vaccum.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\chocolate-pack.jpeg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\chocolate-pack.jpeg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/chocolate-pack.jpeg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\chocolate-pack.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\cook-book-collection.jpeg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\cook-book-collection.jpeg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/cook-book-collection.jpeg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cook-book-collection.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\cookware-set.jpeg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\cookware-set.jpeg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/cookware-set.jpeg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cookware-set.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\cross-body-bag.jpeg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\cross-body-bag.jpeg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/cross-body-bag.jpeg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cross-body-bag.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\dash-cam.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\dash-cam.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/dash-cam.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dash-cam.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\dinnerware.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\dinnerware.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/dinnerware.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dinnerware.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\dress.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\dress.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/dress.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dress.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\educational-tablet.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\educational-tablet.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/educational-tablet.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\images\\educational-tablet.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\electric-toothbrush.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\electric-toothbrush.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/electric-toothbrush.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\electric-toothbrush.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\fitness-tracker.jpeg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\fitness-tracker.jpeg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/fitness-tracker.jpeg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\images\\fitness-tracker.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\foam-mattress.jpeg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\foam-mattress.jpeg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/foam-mattress.jpeg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\images\\foam-mattress.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\granola-food.jpeg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\granola-food.jpeg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/granola-food.jpeg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\images\\granola-food.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\hair-drier.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\hair-drier.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/hair-drier.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hair-drier.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\hair-moist.jpeg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\hair-moist.jpeg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/hair-moist.jpeg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hair-moist.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\hiking-backbag.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\hiking-backbag.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/hiking-backbag.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hiking-backbag.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\iphone15pro.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\iphone15pro.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/iphone15pro.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\images\\iphone15pro.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\jacket.webp",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\jacket.webp",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/jacket.webp",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\images\\jacket.webp"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\jump-starter.jpeg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\jump-starter.jpeg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/jump-starter.jpeg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\images\\jump-starter.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\macbook.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\macbook.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/macbook.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\images\\macbook.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\mat-set.jpeg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\mat-set.jpeg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/mat-set.jpeg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\mat-set.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\movie-set.jpeg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\movie-set.jpeg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/movie-set.jpeg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\images\\movie-set.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\novel.jpeg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\novel.jpeg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/novel.jpeg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\images\\novel.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\olive-oil.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\olive-oil.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/olive-oil.jpg",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\images\\olive-oil.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\pasta-pack.jpeg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\pasta-pack.jpeg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/pasta-pack.jpeg",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pasta-pack.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\perfume.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\perfume.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/perfume.jpg",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\images\\perfume.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\puzzle-set.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\puzzle-set.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/puzzle-set.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\images\\puzzle-set.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\remote-control-car.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\remote-control-car.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/remote-control-car.jpg",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\images\\remote-control-car.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\running-sneaker.jpeg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\running-sneaker.jpeg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/running-sneaker.jpeg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\images\\running-sneaker.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\smart-tv.png",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\smart-tv.png",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/smart-tv.png",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\images\\smart-tv.png"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\sony-headphone.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\sony-headphone.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/sony-headphone.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sony-headphone.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\sweater.webp",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\sweater.webp",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/sweater.webp",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sweater.webp"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\unki.png",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\unki.png",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/unki.png",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\images\\unki.png"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\video-game-console.jpeg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\video-game-console.jpeg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/video-game-console.jpeg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\images\\video-game-console.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\vitamin-c.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\vitamin-c.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/vitamin-c.jpg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\images\\vitamin-c.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\images\\yoga-mat.jpg",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\images\\yoga-mat.jpg",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "images/yoga-mat.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\images\\yoga-mat.jpg"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\js\\site.js",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 2\\week 2\\day 6\\ASP.Net-Core-RazorPages-Ecommerce\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

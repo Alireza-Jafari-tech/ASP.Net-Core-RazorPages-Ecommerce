@@ -14,9 +14,10 @@ namespace project.Pages.Products
         {
             _context = context;
         }
-        
 
         public Product Product { get; set; }
+        [BindProperty]
+        public int ProductId { get; set; }
         [BindProperty]
         public int Quantity { get; set; }
 
@@ -40,14 +41,14 @@ namespace project.Pages.Products
             if (!ModelState.IsValid)
                 return Page();
 
-                // int productId = Product.Id;
+            int productId = ProductId;
 
-            AddToCart(userId, Quantity);
+            AddToCart(userId, Quantity, productId);
 
-            return RedirectToPage("/Index", new { UserId = userId});
+            return RedirectToPage("/Index", new { UserId = userId });
         }
 
-        public void AddToCart(int userId, int quantity)
+        public void AddToCart(int userId, int quantity, int productId)
         {
             var user = _context.Customers
                 .Include(c => c.ShoppingCart)
@@ -63,23 +64,23 @@ namespace project.Pages.Products
                 {
                     CustomerId = user.Id
                 };
-                
+
                 _context.ShoppingCarts.Add(newShoppingCard);
                 _context.SaveChanges();
                 user.ShoppingCart = newShoppingCard;
             }
-            
-            var existingItem = user.ShoppingCart.CartItems.FirstOrDefault(f => f.ProductId == "");
+            //TODO
+            var existingItem = user.ShoppingCart.CartItems.FirstOrDefault(f => f.ProductId == productId);
             if (existingItem != null)
-            {       
+            {
                 existingItem.Quantity += quantity;
             }
-            
+
             var cartItem = new CartItem()
             {
                 ShoppingCartId = user.ShoppingCart.Id,
                 //TODO
-                ProductId = "",
+                ProductId = productId,
                 Quantity = quantity
             };
 

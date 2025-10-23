@@ -6,45 +6,45 @@
 }
 
 <style>
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 0 20px;
-        }
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
 
-        /* Page Header */
-        .page-header {
-            background: linear-gradient(135deg, #4a6cf7 0%, #6a11cb 100%);
-            color: white;
-            padding: 40px 0;
-            text-align: center;
-            margin-bottom: 40px;
-        }
+    /* Page Header */
+    .page-header {
+        background: linear-gradient(135deg, #4a6cf7 0%, #6a11cb 100%);
+        color: white;
+        padding: 40px 0;
+        text-align: center;
+        margin-bottom: 40px;
+    }
 
-        .page-title {
-            font-size: 36px;
-            font-weight: 700;
-            margin-bottom: 10px;
-        }
+    .page-title {
+        font-size: 36px;
+        font-weight: 700;
+        margin-bottom: 10px;
+    }
 
-        .page-description {
-            font-size: 18px;
-            opacity: 0.9;
-        }
+    .page-description {
+        font-size: 18px;
+        opacity: 0.9;
+    }
 
-        /* Form Container */
-        .form-container {
-            background: white;
-            border-radius: 10px;
-            padding: 40px;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
-            margin-bottom: 60px;
-        }
+    /* Form Container */
+    .form-container {
+        background: white;
+        border-radius: 10px;
+        padding: 40px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+        margin-bottom: 60px;
+    }
 
-        /* Form Groups */
-        .form-group {
-            margin-bottom: 25px;
-        }
+    /* Form Groups */
+    .form-group {
+        margin-bottom: 25px;
+    }
 
         .form-group label {
             display: block;
@@ -54,14 +54,14 @@
             font-size: 16px;
         }
 
-        .form-control {
-            width: 100%;
-            padding: 12px 15px;
-            border: 2px solid #ddd;
-            border-radius: 4px;
-            font-size: 16px;
-            transition: all 0.3s ease;
-        }
+    .form-control {
+        width: 100%;
+        padding: 12px 15px;
+        border: 2px solid #ddd;
+        border-radius: 4px;
+        font-size: 16px;
+        transition: all 0.3s ease;
+    }
 
         .form-control:focus {
             border-color: #4a6cf7;
@@ -69,21 +69,21 @@
             outline: none;
         }
 
-        textarea.form-control {
-            resize: vertical;
-            min-height: 120px;
-        }
+    textarea.form-control {
+        resize: vertical;
+        min-height: 120px;
+    }
 
-        .form-select {
-            width: 100%;
-            padding: 12px 15px;
-            border: 2px solid #ddd;
-            border-radius: 4px;
-            font-size: 16px;
-            background-color: white;
-            cursor: pointer;
-            transition: all 0.3s ease;
-        }
+    .form-select {
+        width: 100%;
+        padding: 12px 15px;
+        border: 2px solid #ddd;
+        border-radius: 4px;
+        font-size: 16px;
+        background-color: white;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
 
         .form-select:focus {
             border-color: #4a6cf7;
@@ -91,31 +91,31 @@
             outline: none;
         }
 
-        /* Validation Styles */
-        .field-validation-error {
-            display: block;
-            color: #ff6b6b;
-            font-size: 14px;
-            margin-top: 5px;
-            font-weight: 500;
-        }
+    /* Validation Styles */
+    .field-validation-error {
+        display: block;
+        color: #ff6b6b;
+        font-size: 14px;
+        margin-top: 5px;
+        font-weight: 500;
+    }
 
-        .input-validation-error {
-            border-color: #ff6b6b !important;
-        }
+    .input-validation-error {
+        border-color: #ff6b6b !important;
+    }
 
         .input-validation-error:focus {
             border-color: #ff6b6b !important;
             box-shadow: 0 0 0 3px rgba(255, 107, 107, 0.1) !important;
         }
 
-        .validation-summary-errors {
-            background: #fff5f5;
-            border: 1px solid #ff6b6b;
-            border-radius: 4px;
-            padding: 15px;
-            margin-bottom: 25px;
-        }
+    .validation-summary-errors {
+        background: #fff5f5;
+        border: 1px solid #ff6b6b;
+        border-radius: 4px;
+        padding: 15px;
+        margin-bottom: 25px;
+    }
 
         .validation-summary-errors ul {
             list-style: none;
@@ -127,57 +127,57 @@
             margin-bottom: 5px;
         }
 
-        /* Form Actions */
-        .form-actions {
-            display: flex;
-            gap: 15px;
-            margin-top: 30px;
-            padding-top: 20px;
-            border-top: 1px solid #eee;
-        }
+    /* Form Actions */
+    .form-actions {
+        display: flex;
+        gap: 15px;
+        margin-top: 30px;
+        padding-top: 20px;
+        border-top: 1px solid #eee;
+    }
 
-        .btn {
-            display: inline-block;
-            padding: 12px 24px;
-            background: #4a6cf7;
-            color: white;
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
-            font-weight: 600;
-            text-decoration: none;
-            transition: all 0.3s ease;
-            font-size: 16px;
-        }
+    .btn {
+        display: inline-block;
+        padding: 12px 24px;
+        background: #4a6cf7;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        font-weight: 600;
+        text-decoration: none;
+        transition: all 0.3s ease;
+        font-size: 16px;
+    }
 
         .btn:hover {
             background: #3a5ce5;
             transform: translateY(-2px);
         }
 
-        .btn-outline {
-            background: transparent;
-            border: 2px solid #4a6cf7;
-            color: #4a6cf7;
-        }
+    .btn-outline {
+        background: transparent;
+        border: 2px solid #4a6cf7;
+        color: #4a6cf7;
+    }
 
         .btn-outline:hover {
             background: #4a6cf7;
             color: white;
         }
 
-        .btn-danger {
-            background: #ff6b6b;
-        }
+    .btn-danger {
+        background: #ff6b6b;
+    }
 
         .btn-danger:hover {
             background: #ff5252;
         }
 
-        /* Image Preview */
-        .image-preview {
-            margin-top: 15px;
-        }
+    /* Image Preview */
+    .image-preview {
+        margin-top: 15px;
+    }
 
         .image-preview img {
             margin: auto;
@@ -188,205 +188,206 @@
             display: none;
         }
 
-        .image-preview-placeholder {
-            width: 200px;
-            height: 150px;
-            background: #f8f9fa;
-            border: 2px dashed #ddd;
-            border-radius: 8px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: #777;
-            margin: 0 auto;
-        }
+    .image-preview-placeholder {
+        width: 200px;
+        height: 150px;
+        background: #f8f9fa;
+        border: 2px dashed #ddd;
+        border-radius: 8px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #777;
+        margin: 0 auto;
+    }
 
         .image-preview-placeholder i {
             font-size: 40px;
+            margin-left: 40px;
             margin-bottom: 10px;
         }
 
-        /* Success Message */
-        .alert-success {
-            background: #d4edda;
-            color: #155724;
-            border: 1px solid #c3e6cb;
-            border-radius: 4px;
-            padding: 15px;
-            margin-bottom: 25px;
+    /* Success Message */
+    .alert-success {
+        background: #d4edda;
+        color: #155724;
+        border: 1px solid #c3e6cb;
+        border-radius: 4px;
+        padding: 15px;
+        margin-bottom: 25px;
+    }
+
+    /* Responsive Design */
+    @@media (max-width: 768px) {
+        .form-container {
+            padding: 30px 20px;
         }
 
-        /* Responsive Design */
-        @@media (max-width: 768px) {
-            .form-container {
-                padding: 30px 20px;
-            }
-            
-            .page-title {
-                font-size: 28px;
-            }
-            
-            .page-description {
-                font-size: 16px;
-            }
-            
-            .form-actions {
-                flex-direction: column;
-            }
-            
-            .btn {
-                width: 100%;
-                text-align: center;
-            }
+        .page-title {
+            font-size: 28px;
         }
 
-        @@media (max-width: 576px) {
-            .page-header {
-                padding: 30px 0;
-            }
-            
-            .container {
-                padding: 0 15px;
-            }
+        .page-description {
+            font-size: 16px;
         }
-    </style>
 
-    <!-- Page Header -->
-    <div class="page-header">
-        <div class="container">
-            <h1 class="page-title">Add New Product</h1>
-            <p class="page-description">Create a new product for your store</p>
-        </div>
-    </div>
+        .form-actions {
+            flex-direction: column;
+        }
 
-    <!-- Form Container -->
+        .btn {
+            width: 100%;
+            text-align: center;
+        }
+    }
+
+    @@media (max-width: 576px) {
+        .page-header {
+            padding: 30px 0;
+        }
+
+        .container {
+            padding: 0 15px;
+        }
+    }
+</style>
+
+<!-- Page Header -->
+<div class="page-header">
     <div class="container">
-        <div class="form-container">
+        <h1 class="page-title">Add New Product</h1>
+        <p class="page-description">Create a new product for your store</p>
+    </div>
+</div>
 
-            <!-- Success Message -->
-            @if (TempData["SuccessMessage"] != null)
+<!-- Form Container -->
+<div class="container">
+    <div class="form-container">
+
+        <!-- Success Message -->
+        @if (TempData["SuccessMessage"] != null)
             {
-                <div class="alert-success">
-                    <i class="fas fa-check-circle"></i> @TempData["SuccessMessage"]
-                </div>
+        <div class="alert-success">
+            <i class="fas fa-check-circle"></i> @TempData["SuccessMessage"]
+        </div>
             }
 
-            <form method="post">
-                <!-- Product Name -->
-                <div class="form-group">
-                    <label asp-for="Product.Name"></label>
-                    <input asp-for="Product.Name" class="form-control" placeholder="Enter product name" />
-                    <span asp-validation-for="Product.Name" class="field-validation-error"></span>
-                </div>
+        <form method="post">
+            <!-- Product Name -->
+            <div class="form-group">
+                <label asp-for="Product.Name"></label>
+                <input asp-for="Product.Name" class="form-control" placeholder="Enter product name" />
+                <span asp-validation-for="Product.Name" class="field-validation-error"></span>
+            </div>
 
-                <!-- Product Description -->
-                <div class="form-group">
-                    <label asp-for="Product.Description"></label>
-                    <textarea asp-for="Product.Description" class="form-control" placeholder="Enter product description"></textarea>
-                    <span asp-validation-for="Product.Description" class="field-validation-error"></span>
-                </div>
+            <!-- Product Description -->
+            <div class="form-group">
+                <label asp-for="Product.Description"></label>
+                <textarea asp-for="Product.Description" class="form-control" placeholder="Enter product description"></textarea>
+                <span asp-validation-for="Product.Description" class="field-validation-error"></span>
+            </div>
 
-                <!-- Product Price -->
-                <div class="form-group">
-                    <label asp-for="Product.Price"></label>
-                    <input asp-for="Product.Price" type="number" step="0.01" class="form-control" placeholder="0.00" />
-                    <span asp-validation-for="Product.Price" class="field-validation-error"></span>
-                </div>
+            <!-- Product Price -->
+            <div class="form-group">
+                <label asp-for="Product.Price"></label>
+                <input asp-for="Product.Price" type="number" step="0.01" class="form-control" placeholder="0.00" />
+                <span asp-validation-for="Product.Price" class="field-validation-error"></span>
+            </div>
 
-                <!-- Image URL -->
-                <div class="form-group">
-                    <label asp-for="Product.ImageUrl"></label>
-                    <input asp-for="Product.ImageUrl" type="text" class="form-control" id="image-url" placeholder="e.g. https://example.com/image.jpg" />
-                    <span asp-validation-for="Product.ImageUrl" class="field-validation-error"></span>
-                    
-                    <!-- Image Preview -->
-                    <div class="image-preview">
-                        <div class="image-preview-placeholder">
-                            <div>
-                                <i class="fas fa-image"></i>
-                                <div>Image Preview</div>
-                            </div>
+            <!-- Image URL -->
+            <div class="form-group">
+                <label asp-for="Product.ImageUrl"></label>
+                <input asp-for="Product.ImageUrl" type="text" class="form-control" id="image-url" placeholder="e.g. https://example.com/image.jpg" />
+                <span asp-validation-for="Product.ImageUrl" class="field-validation-error"></span>
+
+                <!-- Image Preview -->
+                <div class="image-preview">
+                    <div class="image-preview-placeholder">
+                        <div>
+                            <i class="fas fa-image"></i>
+                            <div>Image Preview</div>
                         </div>
-                        <img id="image-preview" src="" alt="Image preview" />
                     </div>
+                    <img id="image-preview" src="" alt="Image preview" />
                 </div>
+            </div>
 
-                <!-- Category -->
-                <div class="form-group">
-                    <label asp-for="Product.CategoryId"></label>
-                    <select asp-for="Product.CategoryId" asp-items="@Model.CategoriesList" class="form-select">
-                        <option value="">-- Select Category --</option>
-                    </select>
-                    <span asp-validation-for="Product.CategoryId" class="field-validation-error"></span>
-                </div>
+            <!-- Category -->
+            <div class="form-group">
+                <label asp-for="Product.CategoryId"></label>
+                <select asp-for="Product.CategoryId" asp-items="@Model.CategoriesList" class="form-select">
+                    <option value="">-- Select Category --</option>
+                </select>
+                <span asp-validation-for="Product.CategoryId" class="field-validation-error"></span>
+            </div>
 
-                <!-- Form Actions -->
-                <div class="form-actions">
-                    <button type="submit" class="btn">
-                        <i class="fas fa-plus"></i> Add Product
-                    </button>
-                    <a href="/products" class="btn btn-outline">
-                        <i class="fas fa-arrow-left"></i> Back to Products
-                    </a>
-                    <button type="reset" class="btn btn-outline">
-                        <i class="fas fa-redo"></i> Reset Form
-                    </button>
-                </div>
-            </form>
-        </div>
+            <!-- Form Actions -->
+            <div class="form-actions">
+                <button type="submit" class="btn">
+                    <i class="fas fa-plus"></i> Add Product
+                </button>
+                <a href="/products" class="btn btn-outline">
+                    <i class="fas fa-arrow-left"></i> Back to Products
+                </a>
+                <button type="reset" class="btn btn-outline">
+                    <i class="fas fa-redo"></i> Reset Form
+                </button>
+            </div>
+        </form>
     </div>
+</div>
 
-    <script>
-        // Image preview functionality
-        document.getElementById('image-url').addEventListener('input', function() {
-            const imageUrl = this.value;
-            const imagePreview = document.getElementById('image-preview');
-            const placeholder = document.querySelector('.image-preview-placeholder');
-            
-            if (imageUrl) {
-                imagePreview.src = imageUrl;
-                imagePreview.style.display = 'block';
-                placeholder.style.display = 'none';
-                
-                // Handle image load error
-                imagePreview.onerror = function() {
-                    imagePreview.style.display = 'none';
-                    placeholder.style.display = 'flex';
-                    placeholder.innerHTML = `
+<script>
+    // Image preview functionality
+    document.getElementById('image-url').addEventListener('input', function () {
+        const imageUrl = this.value;
+        const imagePreview = document.getElementById('image-preview');
+        const placeholder = document.querySelector('.image-preview-placeholder');
+
+        if (imageUrl) {
+            imagePreview.src = imageUrl;
+            imagePreview.style.display = 'block';
+            placeholder.style.display = 'none';
+
+            // Handle image load error
+            imagePreview.onerror = function () {
+                imagePreview.style.display = 'none';
+                placeholder.style.display = 'flex';
+                placeholder.innerHTML = `
                         <div>
                             <i class="fas fa-exclamation-triangle"></i>
                             <div>Invalid Image URL</div>
                         </div>
                     `;
-                };
-                
-                // Handle image load success
-                imagePreview.onload = function() {
-                    placeholder.style.display = 'none';
-                };
-            } else {
-                imagePreview.style.display = 'none';
-                placeholder.style.display = 'flex';
-                placeholder.innerHTML = `
+            };
+
+            // Handle image load success
+            imagePreview.onload = function () {
+                placeholder.style.display = 'none';
+            };
+        } else {
+            imagePreview.style.display = 'none';
+            placeholder.style.display = 'flex';
+            placeholder.innerHTML = `
                     <div>
                         <i class="fas fa-image"></i>
                         <div>Image Preview</div>
                     </div>
                 `;
-            }
-        });
+        }
+    });
 
-        // Price input formatting
-        document.querySelector('input[asp-for="Product.Price"]').addEventListener('blur', function() {
-            let value = parseFloat(this.value);
-            if (!isNaN(value) && value >= 0) {
-                this.value = value.toFixed(2);
-            }
-        });
+    // Price input formatting
+    document.querySelector('input[asp-for="Product.Price"]').addEventListener('blur', function () {
+        let value = parseFloat(this.value);
+        if (!isNaN(value) && value >= 0) {
+            this.value = value.toFixed(2);
+        }
+    });
 
-        // Form reset handler
-        document.querySelector('button[type="reset"]').addEventListener('click', function() {
-            document.getElementById('image-preview').style.display = 'none';
-            document.querySelector('.image-preview-placeholder').style.display = 'flex';
-        });
-    </script>
+    // Form reset handler
+    document.querySelector('button[type="reset"]').addEventListener('click', function () {
+        document.getElementById('image-preview').style.display = 'none';
+        document.querySelector('.image-preview-placeholder').style.display = 'flex';
+    });
+</script>
